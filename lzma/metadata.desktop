@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Header structure of *.lzma type file.
+Encoding=UTF-8
+Icon=application-x-lzma
+Name=LZMA header structure
+ServiceTypes=KPluginInfo
+Type=Service
+X-KDE-PluginInfo-Author=Maxim Logaev
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-Email=maximlogaev2001ezro@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=false
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=lzma
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/turbocat2001/my-okteta-structs
