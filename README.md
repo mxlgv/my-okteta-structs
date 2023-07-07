@@ -1,4 +1,4 @@
-# My structures for the Okteta.
+# My structures for Okteta.
 
 [Okteta](http://utils.kde.org/projects/okteta/) is a simple editor for the raw data of files.
 This type of program is also called hex editor or binary editor.
