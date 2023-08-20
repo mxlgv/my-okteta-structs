@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment="Gravity Defied" game level file (.mrg)
+Encoding=UTF-8
+Icon=input-gamepad
+Name=GravityDefead level file
+ServiceTypes=KPluginInfo
+Type=Service
+X-KDE-PluginInfo-Author=Maxim Logaev
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-Email=maximlogaev2001ezro@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=false
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=gd_levels
+X-KDE-PluginInfo-Version=1.1
+X-KDE-PluginInfo-Website=https://github.com/turbocat2001/my-okteta-structs
